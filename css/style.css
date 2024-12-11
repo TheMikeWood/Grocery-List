@@ -69,15 +69,17 @@ div {
   display: inline-block;
   box-sizing: border-box;
   width: 200px;
+  border: 1px solid black;
   padding: 3px;
   margin: 0px 18px 0px 0px;
 }
 .content-container {
-  width: 90;
+  width: 90%;
   margin: 0 auto;
 }
 img {
   box-sizing: border-box;
   height: 149px;
   padding: 3px;
+  border: 1px solid black;
 }
